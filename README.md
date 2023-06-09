@@ -21,5 +21,3 @@ Here's what this script does:
 
 ## Installation
 Unfortunately you'll have to set your execution policy to unrestricted to use this script.,
-
-``if you are gonna download this as a zip then uploading it as fake, please at least star this repo 😊``
