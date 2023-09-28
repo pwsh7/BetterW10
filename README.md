@@ -20,4 +20,7 @@ Here's what this script does:
 15. Disables WPAD 
 
 ## Installation
-Unfortunately you'll have to set your execution policy to unrestricted to use this script.,
+Unfortunately you'll have to set your execution policy to unrestricted to use this script.
+Then you need to install it as ZIP by clicking the big green button says "Code"
+Once it downloaded, extract it with 7-ZIP/WinRAR and run "BetterW10.ps1".
+Your done! Your pc might want some reboot tho.
